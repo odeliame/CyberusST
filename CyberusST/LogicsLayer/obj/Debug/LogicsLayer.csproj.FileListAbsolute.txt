@@ -1,0 +1,9 @@
+D:\odelia\new\CyberusST\LogicsLayer\bin\Debug\LogicsLayer.dll
+D:\odelia\new\CyberusST\LogicsLayer\bin\Debug\LogicsLayer.pdb
+D:\odelia\new\CyberusST\LogicsLayer\obj\Debug\LogicsLayer.dll
+D:\odelia\new\CyberusST\LogicsLayer\obj\Debug\LogicsLayer.pdb
+D:\uni\162\IntroSE\milestone-1\CyberusST\LogicsLayer\bin\Debug\LogicsLayer.dll
+D:\uni\162\IntroSE\milestone-1\CyberusST\LogicsLayer\bin\Debug\LogicsLayer.pdb
+D:\uni\162\IntroSE\milestone-1\CyberusST\LogicsLayer\obj\Debug\LogicsLayer.csprojResolveAssemblyReference.cache
+D:\uni\162\IntroSE\milestone-1\CyberusST\LogicsLayer\obj\Debug\LogicsLayer.dll
+D:\uni\162\IntroSE\milestone-1\CyberusST\LogicsLayer\obj\Debug\LogicsLayer.pdb
