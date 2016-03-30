@@ -11,4 +11,3 @@ E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\LogicsLayer\bin\D
 E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\LogicsLayer\bin\Debug\LogicsLayer.pdb
 E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\LogicsLayer\obj\Debug\LogicsLayer.dll
 E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\LogicsLayer\obj\Debug\LogicsLayer.pdb
-E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\LogicsLayer\obj\Debug\LogicsLayer.csprojResolveAssemblyReference.cache
