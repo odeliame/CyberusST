@@ -23,5 +23,14 @@ D:\uni\162\IntroSE\milestone-1\CyberusST\CyberusST\bin\Debug\LogicsLayer.pdb
 D:\uni\162\IntroSE\milestone-1\CyberusST\CyberusST\bin\Debug\Newtonsoft.Json.xml
 D:\uni\162\IntroSE\milestone-1\CyberusST\CyberusST\obj\Debug\CyberusST.csprojResolveAssemblyReference.cache
 E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\CyberusST\bin\Debug\CyberusST.exe.config
+E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\CyberusST\bin\Debug\CyberusST.exe
+E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\CyberusST\bin\Debug\CyberusST.pdb
+E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\CyberusST\bin\Debug\DataLayer.dll
+E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\CyberusST\bin\Debug\LogicsLayer.dll
+E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\CyberusST\bin\Debug\Newtonsoft.Json.dll
+E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\CyberusST\bin\Debug\DataLayer.pdb
+E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\CyberusST\bin\Debug\LogicsLayer.pdb
+E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\CyberusST\bin\Debug\Newtonsoft.Json.xml
+E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\CyberusST\obj\Debug\CyberusST.csprojResolveAssemblyReference.cache
 E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\CyberusST\obj\Debug\CyberusST.exe
 E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\CyberusST\obj\Debug\CyberusST.pdb

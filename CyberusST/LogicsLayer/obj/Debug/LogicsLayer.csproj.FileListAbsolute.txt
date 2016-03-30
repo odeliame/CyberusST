@@ -7,3 +7,7 @@ D:\uni\162\IntroSE\milestone-1\CyberusST\LogicsLayer\bin\Debug\LogicsLayer.pdb
 D:\uni\162\IntroSE\milestone-1\CyberusST\LogicsLayer\obj\Debug\LogicsLayer.csprojResolveAssemblyReference.cache
 D:\uni\162\IntroSE\milestone-1\CyberusST\LogicsLayer\obj\Debug\LogicsLayer.dll
 D:\uni\162\IntroSE\milestone-1\CyberusST\LogicsLayer\obj\Debug\LogicsLayer.pdb
+E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\LogicsLayer\bin\Debug\LogicsLayer.dll
+E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\LogicsLayer\bin\Debug\LogicsLayer.pdb
+E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\LogicsLayer\obj\Debug\LogicsLayer.dll
+E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\LogicsLayer\obj\Debug\LogicsLayer.pdb

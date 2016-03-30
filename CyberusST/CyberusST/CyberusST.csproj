@@ -48,6 +48,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\DataLayer\DataLayer.csproj">
+      <Project>{823dbb06-53cf-441b-9605-0971203b0cf8}</Project>
+      <Name>DataLayer</Name>
+    </ProjectReference>
     <ProjectReference Include="..\LogicsLayer\LogicsLayer.csproj">
       <Project>{bd683245-3c13-4482-96e5-45ccb519a627}</Project>
       <Name>LogicsLayer</Name>

@@ -16,3 +16,12 @@ D:\uni\162\IntroSE\milestone-1\CyberusST\DataLayer\bin\Debug\Newtonsoft.Json.xml
 D:\uni\162\IntroSE\milestone-1\CyberusST\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
 D:\uni\162\IntroSE\milestone-1\CyberusST\DataLayer\obj\Debug\DataLayer.dll
 D:\uni\162\IntroSE\milestone-1\CyberusST\DataLayer\obj\Debug\DataLayer.pdb
+E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\DataLayer\bin\Debug\DataLayer.dll
+E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\DataLayer\bin\Debug\DataLayer.pdb
+E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\DataLayer\bin\Debug\LogicsLayer.dll
+E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\DataLayer\bin\Debug\Newtonsoft.Json.dll
+E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\DataLayer\bin\Debug\LogicsLayer.pdb
+E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\DataLayer\bin\Debug\Newtonsoft.Json.xml
+E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\DataLayer\obj\Debug\DataLayer.dll
+E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\DataLayer\obj\Debug\DataLayer.pdb
