@@ -7,7 +7,7 @@ namespace CyberusST
 {
     class GUI : IGUI
     {
-        //****private LogicsLayer.LogicsLayer ll = new LogicsLayer.LogicsLayer();
+        //*****private LogicsLayer.LogicsLayer ll = new LogicsLayer.LogicsLayer();
         private DataLayer.DataLayer dt = new DataLayer.DataLayer();
 
         //changes the password
