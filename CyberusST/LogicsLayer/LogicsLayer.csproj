@@ -39,7 +39,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LogicExceptions\BadNewPasswordException.cs" />
     <Compile Include="ILogicsLayer.cs" />
+    <Compile Include="LogicsLayer.cs" />
+    <Compile Include="LogicExceptions\NewDoesntMatchException.cs" />
+    <Compile Include="LogicExceptions\OldDoesntMatchException.cs" />
     <Compile Include="User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

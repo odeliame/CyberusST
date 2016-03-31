@@ -34,3 +34,6 @@ E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\CyberusST\bin\Deb
 E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\CyberusST\obj\Debug\CyberusST.csprojResolveAssemblyReference.cache
 E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\CyberusST\obj\Debug\CyberusST.exe
 E:\Users\user\Documents\GitHubVisualStudio\CyberusST\CyberusST\CyberusST\obj\Debug\CyberusST.pdb
+C:\Users\liorbass\Source\Repos\CyberusST\CyberusST\CyberusST\bin\Debug\CyberusST.exe.config
+C:\Users\liorbass\Source\Repos\CyberusST\CyberusST\CyberusST\obj\Debug\CyberusST.exe
+C:\Users\liorbass\Source\Repos\CyberusST\CyberusST\CyberusST\obj\Debug\CyberusST.pdb
